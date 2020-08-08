@@ -17,7 +17,7 @@ Commande des menus de navigation par les boutton du compteur d'origine
 
 
 A Faire :
-Realisation de la connection pour la comunication CAN entre les calculateurs et l'ecran
+Realisation de la connection pour la comunication K-Line entre les calculateurs et l'ecran
 Affichage de information reél (retour de la communication)
 Création des icone dans un format compatible et de faible poid
 logo Audi
@@ -27,6 +27,8 @@ Realisation d'un système de communication pour :
  La lecture des deffauts
  Effacement des deffauts
  Lecture des goupe de mesures
+ 
+ Tester le module K-Line PMC ISO9141 OBD2 vers TTL émetteur-récepteur Module Breakout
 
 Realisation d'une connection de codage pour changer les carthographie 1 Auto 2 Manuelle 3 4x4 (MiltyCarte)
 
@@ -45,7 +47,7 @@ Control of the navigation menus using the buttons on the original speedometer
 
 
 To do :
-Connection for CAN communication between the computers and the screen
+Connection for K-Line communication between the computers and the screen
 Display of real information (return of communication)
 Creation of icons in a compatible and low weight format
 audi logo
@@ -55,6 +57,8 @@ Realization of a communication system for:
  Reading faults
  Clearing faults
  Reading the measurement group
+ 
+Test modul K-Line PMC ISO9141 OBD2 vers TTL émetteur-récepteur Module Breakout
 
 Realization of a coding connection to change the maps 1 Auto 2 Manual 3 4x4 (MiltyMap)
 
