@@ -4,6 +4,8 @@ DashBoard VW Golf IV Color Screen
 
 https://www.facebook.com/yan.lehasif/posts/169884381320562
 
+https://youtu.be/xjERU_5Nl0E
+
 FR :
 Description du projet :
 Sur le compteur immo 2 de la Volskwagen Golf IV, Supression de l'écran à cristaux liquides pour le remplacer par un écran couleur
