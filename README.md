@@ -8,7 +8,7 @@ https://youtu.be/xjERU_5Nl0E
 
 FR :
 Description du projet :
-Sur le compteur immo 2 de la Volskwagen Golf IV, Supression de l'écran à cristaux liquides pour le remplacer par un écran couleur
+Sur le compteur immo 3 de la Volskwagen Golf IV, Supression de l'écran à cristaux liquides pour le remplacer par un écran couleur
 Utilisation du protocole KWP 1281 pour récupérer les différentes informations dans l'ECU (Temp LDR, temp huile, EGT, AFR, Pression de Turbo, etc...)
 Choix de la cartographie moteur avec l'interface et sélection directe avec le commodo de l'ordinateur de bord
 
@@ -46,7 +46,7 @@ ENG :
 
 
 Project description:
-On the Volskwagen Golf IV immo 2 speedometer, removal of the liquid crystal screen to replace it with a color screen
+On the Volskwagen Golf IV immo 3 speedometer, removal of the liquid crystal screen to replace it with a color screen
 Use of the KWP 1281 protocol to retrieve the various information in the ECU (Temp LDR, temp oil, EGT, AFR, Turbo pressure, etc...)
 Choice of engine mapping with the interface and direct selection with the on board computer control unit
 
