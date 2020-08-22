@@ -24,11 +24,12 @@
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
-#define TFT_RST 8
-#define TFT_RS  9
-#define TFT_CS  10  // SS
-#define TFT_SDI 16  // MOSI
 #define TFT_CLK 15   // SCK
+#define TFT_SDI 16   // SDA
+#define TFT_RS  9    // RS
+#define TFT_RST 8    // RST
+#define TFT_CS  10   // CS
+
 #define TFT_LED 0   // 0 if wired to +5V directly
 
 //---------------------------------------------------------------------------------------
